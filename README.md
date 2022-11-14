@@ -3,11 +3,13 @@
 # Client
 
 npm i
+
 npm start
 
 # Server
 
 npm i
+
 npm run dev
 
 # Дисклейсмер
